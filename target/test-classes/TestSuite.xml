@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="GitHub tests EPAM homework" verbose="1">
+	
+	<test name="Functional Tests" preserve-order="true">
+		<classes>
+ 			<class name="github.tests.Test123" />
+        </classes>
+	</test>
+</suite>
