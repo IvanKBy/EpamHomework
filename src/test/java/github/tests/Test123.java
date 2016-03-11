@@ -13,9 +13,10 @@ import webdriver.elements.Label;
 public class Test123 extends BaseTest {
 
     @Test
-    public void runTest() {
+    public void runTest()  {
 
         GitHubMainForm mainForm = new GitHubMainForm();
+        int xdfs;
 
     }
 
